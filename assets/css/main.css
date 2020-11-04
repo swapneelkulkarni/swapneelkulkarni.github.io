@@ -2795,9 +2795,9 @@ input, select, textarea {
 		padding-left: 1.25rem;
 	}
 
-		ol li {
+		/*ol li {
 			padding-left: 0.25rem;
-		}
+		}*/
 
 	ul {
 		list-style: disc;
@@ -2805,9 +2805,9 @@ input, select, textarea {
 		padding-left: 1rem;
 	}
 
-		ul li {
+		/*ul li {
 			padding-left: 0.5rem;
-		}
+		}*/
 
 		ul.alt {
 			list-style: none;

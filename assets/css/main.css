@@ -119,9 +119,13 @@ body {
 	font-size: 15px;
 }
 
+#IAMCI_images_12 {
+	padding-top: 80px;
+}
+
 #project_image {
 	width: 100%;
-	height: 140px;
+	height: auto;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
@@ -130,8 +134,14 @@ body {
 	#project_description_summary { margin: 0px 50px 0px 50px }
 	#project_description { margin: 25px 50px 25px 50px }
 	#summary { margin: 0px 50px 0px 50px }
+}
 
+.major#Project_link {
+	font-size: 1.5rem;
+}
 
+.major#image_desc {
+	font-size: 0.8rem;
 }
 
 blockquote, q {

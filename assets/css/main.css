@@ -114,6 +114,14 @@ body {
 	margin-bottom: 10px;
 }
 
+@media screen and (max-width: 768px) {
+	#project_description_summary { margin: 0px 50px 0px 50px }
+	#project_description { margin: 25px 50px 25px 50px }
+	#summary { margin: 0px 50px 0px 50px }
+
+
+}
+
 blockquote, q {
 	quotes: none;
 }
